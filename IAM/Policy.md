@@ -1,7 +1,7 @@
 [[User]]s and [[Group]]s can avail permissions based on a construct called [[Policy]]
 Example
 
-```
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
