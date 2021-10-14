@@ -19,5 +19,9 @@ SSH key pairs can be generated while creating an EC2 machine.
 
 Can be accessed via [[SSH]] or via [[EC2 Instance Connect]]
 
+[[Purchasing Options]]
+[[Elastic Ip]]
+[[Placement Groups]]
+
 
 
