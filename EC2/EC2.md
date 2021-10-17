@@ -23,5 +23,13 @@ Can be accessed via [[SSH]] or via [[EC2 Instance Connect]]
 [[Elastic Ip]]
 [[Placement Groups]]
 
+[[Elastic Network Interfaces]]
+[[Hibernate]]
+[[Nitro]]
+[[vCpu]]
+
+
+
+
 
 
