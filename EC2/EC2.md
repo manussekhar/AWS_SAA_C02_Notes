@@ -8,7 +8,7 @@ Configuration options include
 2. RAM
 3. Storage
 	1. Network Attached ([[EBS]] and [[EFS]])
-	2. Hardware (Instance store)
+	2. Hardware ([[Instance store]])
 4. Network card (Public and private ip)
 5. Firewall rules ([[Security Group]])
 6. Bootstrap script named [[EC2 User data]]
@@ -27,6 +27,8 @@ Can be accessed via [[SSH]] or via [[EC2 Instance Connect]]
 [[Hibernate]]
 [[Nitro]]
 [[vCpu]]
+
+
 
 
 
