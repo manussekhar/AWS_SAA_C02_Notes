@@ -11,4 +11,6 @@ Target groups are
 2. Fixed Ip address
 3. Other ALB
 
+NLB has one static IP per AZ anc can attach [[Elastic Ip]] to it.
+
 

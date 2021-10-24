@@ -26,3 +26,4 @@ it can be
 4. Another application load balancer
 5. 
 
+One can't attach [[Elastic Ip]] to ALB
