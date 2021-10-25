@@ -12,7 +12,7 @@ Services by RDS are
 1. Provisioning and underlying OS patching
 2. Continuous backup and restore
 3. Monitoring dashboards
-4. [[Read Replicas]]
+4. [[Read Replica]]
 5. Multi [[Availabilty Zone]] support
 6. Scaling - Horizontal/Vertical
 7. Storage backed by [[EBS]] gp2 or IO1
