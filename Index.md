@@ -6,3 +6,4 @@ Stephane Mareek's course on AWS Certified Solutions Architect Associate Certific
 5.  [[RDS]]
 6.  [[Route 53]]
 7.  [[Solution Architecture]]
+8.  [[S3]]
