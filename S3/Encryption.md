@@ -15,5 +15,14 @@
 	
 4. Client side
 	1. client libraries encrypt the data eg: Amazon S3 encrytion client
+
+
+Transit
+HTTP endpoint - non encrypted.
+
+
+we can encrypt with different methods for each version of a file or we can provide a default encryption for the bucket.
+
+
 	
 
