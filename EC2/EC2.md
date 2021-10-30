@@ -27,6 +27,7 @@ Can be accessed via [[SSH]] or via [[EC2 Instance Connect]]
 [[Hibernate]]
 [[Nitro]]
 [[vCpu]]
+[[Instance Metadata]]
 
 
 

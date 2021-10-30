@@ -23,3 +23,5 @@ Example
 Inline policy - Policy attached to a [[User]].
 
 Inheritance will be applied when there are Policies applied to a  [[Group]] and a [[User]] belong to  many [[Group]]s.
+
+We can use IAM POlicy simulator to test
