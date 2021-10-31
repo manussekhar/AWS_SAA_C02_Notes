@@ -7,3 +7,5 @@ Stephane Mareek's course on AWS Certified Solutions Architect Associate Certific
 6.  [[Route 53]]
 7.  [[Solution Architecture]]
 8.  [[S3]]
+9.  [[CloudFront]]
+10.  [[Storage Extras]]
