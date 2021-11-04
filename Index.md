@@ -9,3 +9,4 @@ Stephane Mareek's course on AWS Certified Solutions Architect Associate Certific
 8.  [[S3]]
 9.  [[CloudFront]]
 10.  [[Storage Extras]]
+11.  [[Messaging]]
