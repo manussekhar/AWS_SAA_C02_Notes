@@ -2,7 +2,7 @@ Pub Sub model
 10million subscribers
 event type is called topic
 100000 topic limit
-Subscribers can be - SQS, HTTP, Lambda, email, SMS, Push notification
+Subscribers can be - SQS, HTTP, Lambda, email, SMS, Push notification NOT [[Kinesis]]
 Publishers can be - Cloud watch, [[ASG]] notifications, [[S3]] events
 
 Publish - using [[AWS SDK]]
