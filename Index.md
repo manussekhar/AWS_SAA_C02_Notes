@@ -13,3 +13,4 @@ Stephane Mareek's course on AWS Certified Solutions Architect Associate Certific
 12.  [[Database]]
 13.  [[Metrics]]
 14.  [[STS]]
+15.  [[AWS Security]]
