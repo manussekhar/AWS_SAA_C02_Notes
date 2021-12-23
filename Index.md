@@ -15,3 +15,6 @@ Stephane Mareek's course on AWS Certified Solutions Architect Associate Certific
 14.  [[STS]]
 15.  [[AWS Security]]
 16.  [[VPC]]
+17.  [[DIsaster Recovery]]
+18.  [[Other Services]]
+19.  [[Well Architected Framework]]
