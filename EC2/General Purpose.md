@@ -1,2 +1,3 @@
 web servers and code repositories
-eg: t
+eg: t2.micro
+
