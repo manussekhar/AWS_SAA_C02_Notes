@@ -1,2 +1,2 @@
 Databases, distributed caches,  real time processing of data
-R Series, 
+R Series, X series
