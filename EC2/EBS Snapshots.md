@@ -9,3 +9,4 @@ Can setup one if we want to restore deleted archives. Retention 1 day to 1 year.
 Fast restore
 no lazy loading of the data within ebs volume after restore. expensive
 
+
