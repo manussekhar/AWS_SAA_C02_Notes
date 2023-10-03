@@ -10,6 +10,7 @@ to move across [[Availabilty Zone]]s, we have to snapshot it
 
 *Delete on termination* flag will be false by default. It will be true for root volumes.
 Default EBS volumes are called root volumes.
+
 [[EBS Snapshots]]
 
 [[EBS Volume Types]]
