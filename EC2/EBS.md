@@ -9,6 +9,7 @@ can be re attached to other EC2 instance within an [[Availabilty Zone]]
 to move across [[Availabilty Zone]]s, we have to snapshot it
 
 *Delete on termination* flag will be false by default. It will be true for root volumes.
+De
 [[EBS Snapshots]]
 
 [[EBS Volume Types]]
