@@ -3,5 +3,5 @@ Recommended to detach the volume before taking snapshot
 Can copy snapshots across [[Region]]s or [[Availabilty Zone]]s
 
 Archives
-Can move the snapshots to an archive tier that is 75% cheaper. takes 24 to 72 hoi
+Can move the snapshots to an archive tier that is 75% cheaper. takes 24 to 72 houtd
 
