@@ -9,7 +9,7 @@ Conditions can include
 1. path
 2. host name
 3. query string 
-actions can include redirection to url, forwarding to target groups or providing a response
+actions can include redirection to url, forwarding to target groups or providing a custom response
 
 Redirecting is possible from https to http
 
