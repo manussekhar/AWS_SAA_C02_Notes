@@ -13,10 +13,6 @@ actions can include redirection
 
 Redirecting is possible from https to http
 
-
-
-is possible
-
 used in microservice environment - Docker and Amazon ECS
 
 Fixed host name - xxx.region.elb.amazonaws.com
