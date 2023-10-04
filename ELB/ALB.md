@@ -21,9 +21,10 @@ Protocol will be in X-Forwarded-Proto
 Target group refers to destination of Load Balancer
 it can be
 1. EC2 Instances
-2. Ip Address
-3. [[Lambda]] Functions
-4. Another application load balancer
-5. 
+2. E
+3. Ip Address
+4. [[Lambda]] Functions
+5. Another application load balancer
+6. 
 
 One can't attach [[Elastic Ip]] to ALB
