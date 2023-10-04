@@ -6,12 +6,13 @@ Load balancing to multiple [[EC2]] instances or within an instance
 
 Under listeners one can setup rules with conditions and actions.
 Conditions can include
-
-Redirecting is possible from https to http
-Routing based on 
 1. path
 2. host name
 3. query string 
+
+Redirecting is possible from https to http
+Routing based on 
+
 
 is possible
 
