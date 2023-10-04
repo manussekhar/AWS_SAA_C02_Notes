@@ -20,7 +20,7 @@ Protocol will be in X-Forwarded-Proto
 
 Target group refers to destination of Load Balancer
 it can be
-1. Instances
+1. EC2 Instances
 2. Ip Address
 3. [[Lambda]] Functions
 4. Another application load balancer
