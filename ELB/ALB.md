@@ -12,7 +12,7 @@ Conditions can include
 actions can include redirection
 
 Redirecting is possible from https to http
-Routing based on 
+
 
 
 is possible
