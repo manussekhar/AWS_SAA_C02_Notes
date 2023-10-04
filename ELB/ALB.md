@@ -28,5 +28,5 @@ it can be
 
 One can't attach [[Elastic Ip]] to ALB
 
-Under listeners one can setup rules with conditions
+Under listeners one can setup rules with conditions and 
 
