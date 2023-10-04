@@ -10,6 +10,7 @@ Target groups are
 1. [[EC2]] Instances
 2. Fixed Ip address
 3. Other ALB
+So
 
 NLB has one static IP per AZ anc can attach [[Elastic Ip]] to it.
 
