@@ -25,6 +25,5 @@ it can be
 3. Ip Address
 4. [[Lambda]] Functions
 5. Another application load balancer
-6. 
 
 One can't attach [[Elastic Ip]] to ALB
