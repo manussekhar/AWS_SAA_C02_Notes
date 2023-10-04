@@ -10,6 +10,7 @@ Conditions can include
 2. host name
 3. query string 
 
+
 Redirecting is possible from https to http
 Routing based on 
 
