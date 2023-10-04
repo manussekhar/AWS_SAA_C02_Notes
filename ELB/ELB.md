@@ -1,7 +1,4 @@
 Elastic load balancing
-
-
-
 Managed load balance by aws
 less configurable
 Health checks is done on a port and route on an [[EC2]] Instance. If response is not 200, the instance is unhealthy
