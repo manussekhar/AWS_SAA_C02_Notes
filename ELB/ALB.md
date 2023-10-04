@@ -3,6 +3,9 @@ Application Load Balancer
 
 HTTP, HTTPS, Websocket (L7)
 Load balancing to multiple [[EC2]] instances or within an instance
+
+Under listeners one can setup rules with conditions and 
+
 Redirecting is possible from https to http
 Routing based on 
 1. path
