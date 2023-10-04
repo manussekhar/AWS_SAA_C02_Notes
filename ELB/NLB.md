@@ -12,6 +12,7 @@ Target groups are
 3. Other ALB
 So no 
 
+
 NLB has one static IP per AZ anc can attach [[Elastic Ip]] to it.
 
 
