@@ -10,7 +10,7 @@ Health checks is done on a port and route on an [[EC2]] Instance. If response is
 
 Can be applied on internal or external networks
 when [[Security Group]] is configured behind an ELB, provide the security group of the ELB
-
+Server Name Indication (SNI) allows you to expose multiple HTTPS applications each with its own SSL certificate on the same listener.
 
 [[Sticky Sessions]]
 
