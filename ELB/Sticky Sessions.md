@@ -1,5 +1,5 @@
 consecutive invocations follows the same invocation path.
-Works for Classic and Applcation load balancer and LNB.
+Works for Classic and Applcation load balancer and NLB.
 A cookie is used for stickiness
 It can be
 1. Application based cookie -
