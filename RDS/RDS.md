@@ -14,7 +14,7 @@ Services by RDS are
 3. Monitoring dashboards
 4. [[Read Replica]]
 5. Multi [[Availabilty Zone]] support
-6. Scaling - Horizontal/Vertical
+6. Auto Scaling - Horizontal/Vertical
 7. Storage backed by [[EBS]] gp2 or IO1
 
 One can't ssh into RDS instances
