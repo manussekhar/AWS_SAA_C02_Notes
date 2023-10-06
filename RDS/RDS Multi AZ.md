@@ -1,5 +1,5 @@
 SYNC replication
-for 
+for disaster 
 one DNS name
 Not used for scaling
 
