@@ -1,4 +1,4 @@
-Scale the reads. should only used for SELECT 
+Scale the reads. should only used for SELECT operations
 can create within [[Availabilty Zone]] cross [[Availabilty Zone]] or cross [[Region]]
 Replication is ASYNC or eventual consistent
 can be promoted as its own DB
