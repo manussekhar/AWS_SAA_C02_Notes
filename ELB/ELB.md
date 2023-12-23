@@ -22,3 +22,10 @@ Server Name Indication (SNI) allows you to expose multiple HTTPS applications ea
 [[Connection Draining]]
 
 [[ASG]]
+
+Scalability - How much we can make the system Available
+Availability - Is the system available for operations
+Vertical Scalability - Increase the scalability by adding more  resource to the current operational unit. Used in databases like [[RDS]] or linke in [[Elastic Cache]]
+Horizontal Scalability - Increase the scalability by adding more operational units and using them parallel - For High availability horizontal scaling is used because we have hardware limit for vertical scalability. Goal is to cater data centre loss.
+
+
